@@ -13,7 +13,7 @@ var temp = 35
 // var temp = 350
 // var temp = 212
 
-
+//i will do it 
 
 // --------------------2) Create the code that will combine two arrays and return the length using the variables provided below. Expected output: 10
 
